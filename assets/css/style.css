@@ -1,0 +1,89 @@
+body {
+    font-family: 'Cabin', sans-serif;
+}
+
+.bg-nav-footer {
+    background: #373A3C 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.bg-contacto {
+    background: #DC3545 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.h1-custom {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font: normal normal normal 37px/40px Lobster;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.h2-blank {
+    text-align: center;
+    font: normal normal bold 40px/50px Cabin;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.card-title-custom {
+    text-align: left;
+    font: normal normal bold 40px/46px Cabin;
+    letter-spacing: 0px;
+    color: #373A3C;
+    opacity: 1;
+}
+
+.recipe-card-title-custom {
+    text-align: left;
+    font: normal normal bold 23px/26px Cabin;
+    letter-spacing: 0px;
+    color: #373A3C;
+    opacity: 1;
+
+}
+
+.card-text-custom {
+    text-align: left;
+    font: normal normal bold 20px/26px Cabin;
+    letter-spacing: 0px;
+    color: #373A3C;
+    opacity: 1;
+}
+
+.recipe-card-text-custom {
+    text-align: left;
+    font: normal normal normal 16px/20px Cabin;
+    letter-spacing: 0px;
+    color: #373A3C;
+    opacity: 1;
+}
+
+.list-item-custom {
+    text-align: left;
+    font: normal normal normal 20px/26px Cabin;
+    letter-spacing: 0px;
+    color: #373A3C;
+    opacity: 1;
+    list-style-type: none;
+}
+
+.contacto-text-custom {
+    text-align: center;
+    font: normal normal normal 30px/36px Cabin;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.contacto-logo-custom {
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font: normal normal normal 30px/36px Lobster;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
